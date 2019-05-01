@@ -1,0 +1,2 @@
+# contact
+Repo pertama saya.
